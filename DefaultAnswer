@@ -1,0 +1,40 @@
+Sehr geehrter Herr XYZ,
+ich habe einige Zeit mit mir gehadert, ob ich Ihnen eine Antwort auf dieses Mail schicken soll, oder nicht.
+Habe mich dann letztendlich dazu entschlossen es doch zu tun.
+
+Ihre Projektbeschreibung und die Skills sind so verwirrend, dass sich damit eigentlich niemand angesprochen fühlen dürfte.
+
+Sie suchen einen Entwickler für eine „Desktop Anwendung“
+
+Welche Technologie soll denn bei der „Desktop Anwendung“ Verwendung finden. 
+* WPF
+* Windows Forms
+* Windows Store App (vormals Metro App)
+* Vielleicht doch eher ElektronNET (also mehr JavaScript)
+* Oder was ganz anderes
+
+Warum soll der Desktop Entwickler den sie suchen sich mit der Architektur von REST Schnittstellen auskennen, suchen Sie eventuell dich eher jemand der eine REST API, als mehr das Backend der Anwendung entwicklen soll.
+Außerdem, wenn wir von „REST API“ sprechen, dann hat das mit WCF gerade mal gar nichts zu tun, oder sprechen Sie von „RestFULL Api“ was eigentlich nur ein Missverständnis ist, oder geht es Ihnen um Hypermedia?
+Sie sehen, das endet eher in vielen Fragezeichen, statt in klaren Anforderungen bzw. Aussagen.
+
+Dann verstehe ich schon gar nicht, was die Desktop Anwendung mit einem Oracle Backend (damit ist sicherlich nur die Datenbank gemeint) zu tun hat, wenn doch REST oder WCF als API für die Desktop Anwendung als Zugriff verwendet werden soll.
+
+Ich muss Ihnen ehrlich sagen, das Ihre Projektbeschreibung es unter die Top 3 der schlechtesten Projektbeschreibungen der letzten 5 Jahre geschafft hat.
+
+Nun noch einige Worte zu mir und zu welcher Art Projekte Sie mich (dann hoffentlich mit besseren Projekt Beschreibungen) ansprechen dürfen.
+
+Ich „arbeite" nur noch zu 100% Remote.
+Produkte wie Skype, Skype2Business, Teamviewer, Slack, Teams usw. bieten alles was man benötigt um sich auch im Team ständig austauschen zu können.  
+Meine Zeit ist viel zu kostbar um Sie mit regelmäßigen stundenlangen Reisetätigkeiten zu vergeuden.
+
+Natürlich gibt es ausnahmen bei denen man auch „mal" vor Ort sein muss.
+Aber das müssen Ausnahmen sein, welche die persönliche Anwesenheit unbedingt voraussetzen.
+Dazu bin ich natürlich gerne bereit. 
+
+Diese Reisetätigkeiten sind aber für mich normale Arbeitszeit und der Auftraggeber muss sich bewusst sein, das diese Zeit dann genau so Wertvoll ist, wie andere Arbeitszeit und somit genau so verrechnet wird wie normale Arbeitszeit.
+
+Wenn Sie also in Zukunft Projekte haben die diese Kriterien erfüllen, können Sie gerne wieder auf mich zukommen.
+
+Besten Dank im Voraus 
+
+Beste Grüße 
